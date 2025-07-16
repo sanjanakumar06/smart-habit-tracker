@@ -1,0 +1,24 @@
+{
+  "name": "smart-habit-tracker",
+  "version": "1.0.0",
+  "description": "Overview The Smart Habit Tracker is a mobile or web app designed to help users track daily habits (reading, exercise, meditation, etc.) and stay motivated with tailored tips and inspirational content. The app leverages web scraping to fetch fresh motivational material and uses machine learning to personalize content based on users' progress and mood.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  }
+}
